@@ -1,0 +1,7 @@
+D:\Editor File\GitHub\C#-learning\C#_learning\09Operator\bin\Debug\09Operator.exe.config
+D:\Editor File\GitHub\C#-learning\C#_learning\09Operator\bin\Debug\09Operator.exe
+D:\Editor File\GitHub\C#-learning\C#_learning\09Operator\bin\Debug\09Operator.pdb
+D:\Editor File\GitHub\C#-learning\C#_learning\09Operator\obj\Debug\09Operator.csproj.AssemblyReference.cache
+D:\Editor File\GitHub\C#-learning\C#_learning\09Operator\obj\Debug\09Operator.csproj.CoreCompileInputs.cache
+D:\Editor File\GitHub\C#-learning\C#_learning\09Operator\obj\Debug\09Operator.exe
+D:\Editor File\GitHub\C#-learning\C#_learning\09Operator\obj\Debug\09Operator.pdb

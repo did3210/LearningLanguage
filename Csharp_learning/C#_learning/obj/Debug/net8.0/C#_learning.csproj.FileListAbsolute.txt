@@ -1,0 +1,15 @@
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\bin\Debug\net8.0\C#_learning.exe
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\bin\Debug\net8.0\C#_learning.deps.json
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\bin\Debug\net8.0\C#_learning.runtimeconfig.json
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\bin\Debug\net8.0\C#_learning.dll
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\bin\Debug\net8.0\C#_learning.pdb
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\obj\Debug\net8.0\C#_learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\obj\Debug\net8.0\C#_learning.AssemblyInfoInputs.cache
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\obj\Debug\net8.0\C#_learning.AssemblyInfo.cs
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\obj\Debug\net8.0\C#_learning.csproj.CoreCompileInputs.cache
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\obj\Debug\net8.0\C#_learning.sourcelink.json
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\obj\Debug\net8.0\C#_learning.dll
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\obj\Debug\net8.0\refint\C#_learning.dll
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\obj\Debug\net8.0\C#_learning.pdb
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\obj\Debug\net8.0\C#_learning.genruntimeconfig.cache
+D:\Editor File\GitHub\C#-learning\C#_learning\C#_learning\obj\Debug\net8.0\ref\C#_learning.dll

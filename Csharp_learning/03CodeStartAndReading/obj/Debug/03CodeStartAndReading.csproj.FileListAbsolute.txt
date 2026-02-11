@@ -1,0 +1,8 @@
+D:\Editor File\GitHub\C#-learning\C#_learning\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.exe.config
+D:\Editor File\GitHub\C#-learning\C#_learning\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.exe
+D:\Editor File\GitHub\C#-learning\C#_learning\03CodeStartAndReading\bin\Debug\03CodeStartAndReading.pdb
+D:\Editor File\GitHub\C#-learning\C#_learning\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.csproj.AssemblyReference.cache
+D:\Editor File\GitHub\C#-learning\C#_learning\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.csproj.CoreCompileInputs.cache
+D:\Editor File\GitHub\C#-learning\C#_learning\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.exe
+D:\Editor File\GitHub\C#-learning\C#_learning\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.pdb
+D:\Editor File\GitHub\C#-learning\C#_learning\03CodeStartAndReading\obj\Debug\03CodeStartAndReading.exe.config

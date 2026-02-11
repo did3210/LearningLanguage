@@ -1,0 +1,7 @@
+D:\Editor File\GitHub\C#-learning\C#_learning\07ClassAccess\bin\Debug\07ClassAccess.exe.config
+D:\Editor File\GitHub\C#-learning\C#_learning\07ClassAccess\bin\Debug\07ClassAccess.exe
+D:\Editor File\GitHub\C#-learning\C#_learning\07ClassAccess\bin\Debug\07ClassAccess.pdb
+D:\Editor File\GitHub\C#-learning\C#_learning\07ClassAccess\obj\Debug\07ClassAccess.csproj.AssemblyReference.cache
+D:\Editor File\GitHub\C#-learning\C#_learning\07ClassAccess\obj\Debug\07ClassAccess.csproj.CoreCompileInputs.cache
+D:\Editor File\GitHub\C#-learning\C#_learning\07ClassAccess\obj\Debug\07ClassAccess.exe
+D:\Editor File\GitHub\C#-learning\C#_learning\07ClassAccess\obj\Debug\07ClassAccess.pdb

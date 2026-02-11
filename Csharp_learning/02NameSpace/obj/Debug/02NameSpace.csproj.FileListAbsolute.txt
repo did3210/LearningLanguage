@@ -1,0 +1,2 @@
+D:\Editor File\GitHub\C#-learning\C#_learning\02NameSpace\obj\Debug\02NameSpace.csproj.AssemblyReference.cache
+D:\Editor File\GitHub\C#-learning\C#_learning\02NameSpace\obj\Debug\02NameSpace.csproj.CoreCompileInputs.cache
