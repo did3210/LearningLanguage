@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8">
+  <title>콘텐츠 구획 요소 예제</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      line-height: 1.6;
+      margin: 0;
+    }
+
+    header,
+    nav,
+    main,
+    section,
+    article,
+    aside,
+    footer {
+      border: 1px solid #ccc;
+      margin: 10px;
+      padding: 15px;
+      border-radius: 8px;
+    }
+
+    header {
+      background-color: #f4f4f4;
+    }
+
+    nav {
+      background-color: #e2e2e2;
+    }
+
+    aside {
+      float: right;
+      width: 25%;
+      background-color: #fff9e6;
+    }
+
+    main {
+      display: block;
+      width: 65%;
+      float: left;
+    }
+
+    footer {
+      clear: both;
+      background-color: #333;
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>나의 기술 블로그</h1>
+    <p>웹 개발과 HTML 공부 기록</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">홈</a></li>
+      <li><a href="#">HTML 학습</a></li>
+      <li><a href="#">CSS 학습</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section>
+      <h2>최신 포스트</h2>
+
+      <article>
+        <h3>HTML 시맨틱 태그의 중요성</h3>
+        <p>시맨틱 태그를 사용하면 검색 엔진 최적화(SEO)에 유리하며...</p>
+      </article>
+
+      <article>
+        <h3>CSS Flexbox 가이드</h3>
+        <p>레이아웃을 잡을 때 Flexbox는 아주 강력한 도구입니다...</p>
+      </article>
+    </section>
+  </main>
+
+  <aside>
+    <h4>카테고리</h4>
+    <ul>
+      <li>Front-end</li>
+      <li>Back-end</li>
+    </ul>
+    <h4>광고</h4>
+    <p>맛있는 커피 원두 판매 중!</p>
+  </aside>
+
+  <footer>
+    <p>&copy; 2024 My Tech Blog. All rights reserved.</p>
+    <address>
+      문의: <a href="mailto:contact@example.com">contact@example.com</a>
+    </address>
+  </footer>
+
+</body>
+
+</html>
